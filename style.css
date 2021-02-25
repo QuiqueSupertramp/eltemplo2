@@ -116,6 +116,7 @@ p {
     -moz-transition: background 8s linear 1s;
     -o-transition: background 8s linear 1s;
     transition: background 8s linear 1s;
+}    
 
 .header-text span {
     font-size: 60px;
